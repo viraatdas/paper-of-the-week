@@ -1,2 +1,2 @@
-# paper-of-the-week
-read and discuss a paper with a group every week
+# Paper of the Week
+We read and discuss a paper with a group every week
